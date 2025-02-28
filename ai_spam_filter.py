@@ -7,7 +7,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 
 # Load trained AI model
-with open("/workspace/spam_filter/spam_classifier.pkl", "rb") as f:
+with open("spam_classifier.pkl", "rb") as f:
     model = pickle.load(f)
 
 # Gmail API scope for modifying emails

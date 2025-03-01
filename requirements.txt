@@ -1,4 +1,4 @@
-scikit-learn
+echo "scikit-learn
 numpy
 pandas
 matplotlib
@@ -12,7 +12,26 @@ lxml
 PyYAML
 python-dotenv
 joblib
-spacy
-email-validator
 fastapi
 uvicorn
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+email-validator
+cryptography
+httplib2
+oauth2client
+six
+cachetools
+spacy
+transformers
+sentencepiece
+celery
+redis
+apscheduler
+sqlalchemy
+pymysql
+psycopg2-binary
+aiohttp
+websockets" > /workspace/spam_filter/requirements.txt

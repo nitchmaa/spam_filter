@@ -1,4 +1,4 @@
-echo "scikit-learn
+scikit-learn
 numpy
 pandas
 matplotlib
@@ -34,4 +34,4 @@ sqlalchemy
 pymysql
 psycopg2-binary
 aiohttp
-websockets" > /workspace/spam_filter/requirements.txt
+websockets

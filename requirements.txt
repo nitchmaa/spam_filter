@@ -12,9 +12,6 @@ lxml
 PyYAML
 python-dotenv
 joblib
-tensorflow
-torch
-transformers
 spacy
 email-validator
 fastapi
